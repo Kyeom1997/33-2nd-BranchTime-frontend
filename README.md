@@ -24,10 +24,10 @@ FrontEnd - HTML/CSS, JavaScript, React.js , React-Router, React-Router-DOM, Styl
 BackEnd - Django, Postman
 
 ## 프론트 엔드 업무 파트
-**김형겸 - 메인 페이지, 검색, 소셜 로그인**
-박슬기 - Nav, 글 쓰기 페이지
-박주영 - 글 목록 페이지, 글 상세 페이지
-신윤지 - 마이 페이지, Book Animation
+**김형겸 - 메인 페이지, 검색, 소셜 로그인** <br>
+박슬기 - Nav, 글 쓰기 페이지 <br>
+박주영 - 글 목록 페이지, 글 상세 페이지 <br>
+신윤지 - 마이 페이지, Book Animation <br>
 
 ## 협업 도구
 trello
@@ -82,20 +82,29 @@ trello
 ## 시연영상
 
 **Login**
+<br>
 ![ezgif-2-79bca24642](https://user-images.githubusercontent.com/78855917/174511731-15f028f2-eb42-4211-9886-fc3bb8523165.gif)
+<br>
 
 **Main Carousel**
+<br>
 ![ezgif-2-3243a49863](https://user-images.githubusercontent.com/78855917/174511916-6ee15b98-44b7-4b60-b956-a1cd0d949046.gif)
+<br>
 
 **Writer List Filtering**
+<br>
 ![ezgif-2-d2c95f9493](https://user-images.githubusercontent.com/78855917/174512029-a7e14693-28f5-4d88-ac51-01e4f1c5efce.gif)
+<br>
 
 **Profile Edit**
+<br>
 ![ezgif-2-1b836a84a8](https://user-images.githubusercontent.com/78855917/174512211-fe90bc35-1316-4a72-bdf1-3db6fd2cfac7.gif)
+<br>
 
 **Post Detail**
+<br>
 ![ezgif-2-1f456bae0a (1)](https://user-images.githubusercontent.com/78855917/174512486-d3105971-6080-4a5d-81ef-0ca78b771753.gif)
-
+<br>
 
 
 
